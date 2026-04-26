@@ -29,16 +29,14 @@ jobs:
 
       - name: Install dependencies
         run: npm install
-        working-directory: docs
 
       - name: Build VuePress
         run: npm run build
-        working-directory: docs
 
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v3
         with:
-          path: docs/.vuepress/dist
+          path: .vuepress/dist
 
   deploy:
     environment:
