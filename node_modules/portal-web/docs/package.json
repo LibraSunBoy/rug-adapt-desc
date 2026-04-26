@@ -1,0 +1,17 @@
+{
+  "name": "rug-adapt-desc",
+  "version": "1.0.0",
+  "description": "RugAdapt 插件使用教程",
+  "scripts": {
+    "dev": "vuepress dev .",
+    "build": "vuepress build ."
+  },
+  "devDependencies": {
+    "@vuepress/plugin-back-to-top": "^1.9.10",
+    "@vuepress/plugin-medium-zoom": "^1.9.10",
+    "vuepress": "^1.9.10"
+  },
+  "dependencies": {
+    "portal-web": "file:.."
+  }
+}
