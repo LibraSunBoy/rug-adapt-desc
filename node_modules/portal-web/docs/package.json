@@ -10,8 +10,5 @@
     "@vuepress/plugin-back-to-top": "^1.9.10",
     "@vuepress/plugin-medium-zoom": "^1.9.10",
     "vuepress": "^1.9.10"
-  },
-  "dependencies": {
-    "portal-web": "file:.."
   }
 }
