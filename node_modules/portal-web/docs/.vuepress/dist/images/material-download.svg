@@ -1,7 +1,0 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="800" height="450" viewBox="0 0 800 450">
-  <rect width="800" height="450" fill="#1a1a2e"/>
-  <rect x="2" y="2" width="796" height="446" fill="none" stroke="#f1951c" stroke-width="2" stroke-dasharray="8,4"/>
-  <text x="400" y="200" font-family="Arial,sans-serif" font-size="26" fill="#f1951c" text-anchor="middle">📸 点击下载素材</text>
-  <text x="400" y="240" font-family="Arial,sans-serif" font-size="15" fill="#888" text-anchor="middle">请替换为实际截图</text>
-  <text x="400" y="270" font-family="Arial,sans-serif" font-size="13" fill="#555" text-anchor="middle">800 × 450 px</text>
-</svg>

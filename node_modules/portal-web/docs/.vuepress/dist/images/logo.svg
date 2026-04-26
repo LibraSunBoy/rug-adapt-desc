@@ -1,7 +1,0 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="120" height="120" viewBox="0 0 120 120">
-  <rect width="120" height="120" fill="#1a1a2e"/>
-  <rect x="2" y="2" width="116" height="116" fill="none" stroke="#f1951c" stroke-width="2" stroke-dasharray="8,4"/>
-  <text x="60" y="35" font-family="Arial,sans-serif" font-size="26" fill="#f1951c" text-anchor="middle">📸 RugAdapt Logo</text>
-  <text x="60" y="75" font-family="Arial,sans-serif" font-size="15" fill="#888" text-anchor="middle">请替换为实际截图</text>
-  <text x="60" y="105" font-family="Arial,sans-serif" font-size="13" fill="#555" text-anchor="middle">120 × 120 px</text>
-</svg>
