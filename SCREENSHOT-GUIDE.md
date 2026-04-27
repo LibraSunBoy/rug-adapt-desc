@@ -26,7 +26,7 @@
 | ----------------------- | -------- | ---------------- |
 | `login-page.svg`        | 登录页   | 登录表单界面     |
 | `register-page.svg`     | 登录页   | 注册表单界面     |
-| `auto-login.svg`        | 登录页   | 自动登录勾选     |
+| `auto-login.svg`        | 登录页   | 记住密码勾选     |
 | `header-bar.svg`        | 快速开始 | 顶部信息栏       |
 | `version-update.svg`    | 快速开始 | 版本更新提示     |
 | `material-overview.svg` | 添加素材 | 页面总览         |

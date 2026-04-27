@@ -8,7 +8,7 @@
 
 ![系统设置截图](/rug-adapt-desc/images/setting-dialog.svg)
 
-> ↑ 系统设置对话框（请替换为实际截图）
+> ↑ 系统设置对话框
 
 ---
 

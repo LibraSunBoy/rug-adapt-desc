@@ -8,8 +8,7 @@ module.exports = {
     nav: [
       { text: '首页', link: '/' },
       { text: '使用教程', link: '/guide/' },
-      { text: '下载安装', link: '/download/' },
-      { text: '账户与会员', link: '/account/member' }
+      { text: '下载安装', link: '/download/' }
     ],
     sidebar: {
       '/guide/': [
@@ -19,22 +18,15 @@ module.exports = {
           children: ['', 'login']
         },
         {
-          title: '素材功能',
+          title: '样机功能',
           collapsable: false,
-          children: ['material', 'local-material', 'source-file', 'psd-file']
+          children: ['material-list', 'local-material-two']
         },
         {
-          title: '生成功能',
-          collapsable: false,
-          children: ['import-file', 'more-service']
-        },
-        {
-          title: 'PS 工具箱',
+          title: '工具箱',
           collapsable: false,
           children: ['tools']
-        }
-      ],
-      '/account/': [
+        },
         {
           title: '账户与会员',
           collapsable: false,

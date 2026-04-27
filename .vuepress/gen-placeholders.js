@@ -10,32 +10,17 @@ const images = [
   // 登录
   { name: 'login-page.png', label: '登录页面' },
   { name: 'register-page.png', label: '注册页面' },
-  { name: 'auto-login.png', label: '自动登录勾选' },
-  // 添加素材
-  { name: 'material-overview.png', label: '添加素材 - 总览' },
-  { name: 'material-category.png', label: '左侧分类导航' },
-  { name: 'material-search.png', label: '搜索素材' },
-  { name: 'material-collect.png', label: '收藏素材' },
-  { name: 'material-download.png', label: '点击下载素材' },
-  // 本地素材
-  { name: 'local-overview.png', label: '本地素材 - 总览' },
-  { name: 'local-setting.png', label: '设置本地素材路径' },
-  { name: 'local-open.png', label: '打开本地文件' },
-  // 源文件
-  { name: 'source-overview.png', label: '源文件 - 总览' },
-  { name: 'source-collect.png', label: '源文件收藏' },
-  // PSD素材
-  { name: 'psd-overview.png', label: 'PSD素材 - 总览' },
-  { name: 'psd-buy.png', label: 'PSD购买弹窗' },
-  { name: 'psd-link.png', label: '百度网盘链接弹窗' },
-  // 生成功能
-  { name: 'import-vip.png', label: '生成功能 - 非会员' },
-  { name: 'import-env.png', label: '环境选择' },
-  { name: 'import-style.png', label: '风格选择' },
-  { name: 'import-progress.png', label: '生成进度条' },
-  // 更多服务
-  { name: 'more-service.png', label: '更多服务 - 总览' },
-  { name: 'more-poster.png', label: '服务海报弹窗' },
+  { name: 'auto-login.png', label: '记住密码勾选' },
+  // 样机列表
+  { name: 'material-list-overview.png', label: '样机列表 - 总览' },
+  { name: 'material-list-category.png', label: '样机列表 - 分类导航' },
+  { name: 'material-list-search.png', label: '样机列表 - 搜索' },
+  { name: 'material-list-use.png', label: '样机列表 - 购买使用' },
+  // 本地样机
+  { name: 'local-material-two-overview.png', label: '本地样机 - 总览' },
+  { name: 'local-material-two-setting.png', label: '本地样机 - 设置路径' },
+  { name: 'local-material-two-browse.png', label: '本地样机 - 浏览分类' },
+  { name: 'local-material-two-use.png', label: '本地样机 - 使用样机' },
   // 工具箱
   { name: 'tools-overview.png', label: '工具箱 - 总览' },
   { name: 'tools-remove-wm.png', label: '清除水印引导' },
