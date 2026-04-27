@@ -8,6 +8,7 @@ module.exports = {
     nav: [
       { text: '首页', link: '/' },
       { text: '使用教程', link: '/guide/' },
+      { text: '下载安装', link: '/download/' },
       { text: '账户与会员', link: '/account/member' }
     ],
     sidebar: {
