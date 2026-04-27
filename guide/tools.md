@@ -2,9 +2,9 @@
 
 「工具箱」页面集成了多个常用的 Photoshop 效率工具，分为**免费工具**和**会员工具**两组。
 
-![工具箱总览截图](/rug-adapt-desc/images/tools-overview.svg)
+![工具箱总览截图](/rug-adapt-desc/images/tools-overview.png)
 
-> ↑ 工具箱页面总览（请替换为实际截图）
+> ↑ 工具箱页面总览
 
 ---
 
@@ -22,9 +22,9 @@
 
 利用 PS 内容识别功能，自动清除选区内的水印。
 
-![清除水印引导截图](/rug-adapt-desc/images/tools-remove-wm.svg)
+![清除水印引导截图](/rug-adapt-desc/images/tools-remove-wm.png)
 
-> ↑ 清除水印操作引导（请替换为实际截图）
+> ↑ 清除水印操作引导
 
 **使用步骤：**
 
@@ -42,9 +42,9 @@
 
 在当前 PS 文档中添加文字水印，支持自定义文字和位置。
 
-![添加水印对话框截图](/rug-adapt-desc/images/tools-add-wm.svg)
+![添加水印对话框截图](/rug-adapt-desc/images/tools-add-wm.png)
 
-> ↑ 添加水印对话框（请替换为实际截图）
+> ↑ 添加水印对话框
 
 **使用步骤：**
 
@@ -71,9 +71,9 @@
 
 快速调整当前 PS 文档的画布尺寸，支持常用比例预设和自定义尺寸。
 
-![尺寸规范化对话框截图](/rug-adapt-desc/images/tools-resize.svg)
+![尺寸规范化对话框截图](/rug-adapt-desc/images/tools-resize.png)
 
-> ↑ 尺寸规范化对话框（请替换为实际截图）
+> ↑ 尺寸规范化对话框
 
 **常用比例预设：**
 
@@ -97,9 +97,9 @@
 
 旋转当前 PS 文档的画布。
 
-![画布旋转对话框截图](/rug-adapt-desc/images/tools-rotate.svg)
+![画布旋转对话框截图](/rug-adapt-desc/images/tools-rotate.png)
 
-> ↑ 画布旋转对话框（请替换为实际截图）
+> ↑ 画布旋转对话框
 
 | 选项   | 角度                           |
 | ------ | ------------------------------ |
@@ -148,9 +148,9 @@
 
 批量将素材图片嵌入 PSD 样机文件，自动导出效果图。
 
-![一键样机替换截图](/rug-adapt-desc/images/tools-mockup.svg)
+![一键样机替换截图](/rug-adapt-desc/images/tools-mockup.png)
 
-> ↑ 一键样机替换对话框（请替换为实际截图）
+> ↑ 一键样机替换对话框
 
 **使用步骤：**
 
@@ -165,9 +165,9 @@
 
 将文件夹内所有 PSD 批量导出为多种尺寸的 PNG。
 
-![批量导出图包截图](/rug-adapt-desc/images/tools-export.svg)
+![批量导出图包截图](/rug-adapt-desc/images/tools-export.png)
 
-> ↑ 批量导出图包对话框（请替换为实际截图）
+> ↑ 批量导出图包对话框
 
 **使用步骤：**
 
@@ -183,9 +183,9 @@
 
 批量重命名文件夹内所有文件，支持自定义前缀、后缀和起始序号。
 
-![批量重命名截图](/rug-adapt-desc/images/tools-rename.svg)
+![批量重命名截图](/rug-adapt-desc/images/tools-rename.png)
 
-> ↑ 批量智能重命名对话框（请替换为实际截图）
+> ↑ 批量智能重命名对话框
 
 **使用步骤：**
 
