@@ -8,7 +8,7 @@
 
 ## 页面总览
 
-![本地样机总览截图](/images/local-material-two-overview.png)
+![本地样机总览截图](/images/local-material-overview.png)
 
 > ↑ 本地样机页面总览
 
@@ -25,7 +25,7 @@
    - 例如：`D:\我的样机` 或 `/Users/yourname/Mockups`
 3. 点击「**确 定**」保存。
 
-![设置路径截图](/images/local-material-two-setting.png)
+![设置路径截图](/images/local-setting.png)
 
 > ↑ 在设置中填写本地样机路径
 
@@ -63,10 +63,6 @@ D:\我的样机\
 
 点击左侧分类名称切换，右侧内容同步更新。
 
-![浏览本地样机截图](/images/local-material-two-browse.png)
-
-> ↑ 浏览本地样机分类
-
 ---
 
 ## 使用本地样机
@@ -78,10 +74,6 @@ D:\我的样机\
 3. 将当前打开的素材图片嵌入样机的智能对象中
 4. 根据 `.txt` 配置旋转图片（如有多个智能对象，按顺序应用角度）
 5. 保存替换后的效果图到桌面
-
-![使用本地样机截图](/images/local-material-two-use.png)
-
-> ↑ 点击样机在 PS 中打开
 
 ---
 

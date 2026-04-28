@@ -2,7 +2,7 @@
 home: true
 heroImage: /images/logo.png
 heroText: RugAdapt
-tagline: 专为设计师打造的 Photoshop 素材管理与效率工具插件
+tagline: 专为跨境电商地毯卖家设计的 Photoshop 素材管理与效率工具插件
 actionText: 快速开始 →
 actionLink: /guide/
 features:

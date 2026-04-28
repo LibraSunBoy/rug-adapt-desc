@@ -6,7 +6,7 @@
 
 点击顶部信息栏右侧的「**设置**」按钮，打开全屏系统设置对话框。
 
-![系统设置截图](/images/setting-dialog.png)
+![系统设置截图](/images/local-setting.png)
 
 > ↑ 系统设置对话框
 
