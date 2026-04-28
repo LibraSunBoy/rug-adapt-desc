@@ -1,8 +1,8 @@
 module.exports = {
   title: 'RugAdapt',
   description: 'RugAdapt Photoshop 插件使用教程',
-  base: '/rug-adapt-desc/',
-  head: [['link', { rel: 'icon', href: '/rug-adapt-desc/images/logo.png' }]],
+  base: '/',
+  head: [['link', { rel: 'icon', href: '/images/logo.svg' }]],
   themeConfig: {
     logo: '/images/logo.png',
     nav: [
