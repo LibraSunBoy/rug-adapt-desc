@@ -1,6 +1,6 @@
----
+﻿---
 home: true
-heroImage: /images/logo.svg
+heroImage: /images/logo.png
 heroText: RugAdapt
 tagline: 专为设计师打造的 Photoshop 素材管理与效率工具插件
 actionText: 快速开始 →

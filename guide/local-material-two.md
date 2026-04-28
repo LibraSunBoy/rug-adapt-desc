@@ -1,4 +1,4 @@
-# 本地样机
+﻿# 本地样机
 
 「本地样机」功能将本地文件夹中的样机图片接入插件，按子文件夹分类展示，点击后直接在 Photoshop 中以样机嵌入方式打开。
 
@@ -8,9 +8,9 @@
 
 ## 页面总览
 
-![本地样机总览截图](/images/local-material-two-overview.svg)
+![本地样机总览截图](/images/local-material-two-overview.png)
 
-> ↑ 本地样机页面总览（请替换为实际截图）
+> ↑ 本地样机页面总览
 
 ---
 
@@ -25,9 +25,9 @@
    - 例如：`D:\我的样机` 或 `/Users/yourname/Mockups`
 3. 点击「**确 定**」保存。
 
-![设置路径截图](/images/local-material-two-setting.svg)
+![设置路径截图](/images/local-material-two-setting.png)
 
-> ↑ 在设置中填写本地样机路径（请替换为实际截图）
+> ↑ 在设置中填写本地样机路径
 
 ::: tip 文件夹结构建议
 将样机按类别放在子文件夹中，插件会自动将子文件夹识别为分类：
@@ -63,9 +63,9 @@ D:\我的样机\
 
 点击左侧分类名称切换，右侧内容同步更新。
 
-![浏览本地样机截图](/images/local-material-two-browse.svg)
+![浏览本地样机截图](/images/local-material-two-browse.png)
 
-> ↑ 浏览本地样机分类（请替换为实际截图）
+> ↑ 浏览本地样机分类
 
 ---
 
@@ -79,9 +79,9 @@ D:\我的样机\
 4. 根据 `.txt` 配置旋转图片（如有多个智能对象，按顺序应用角度）
 5. 保存替换后的效果图到桌面
 
-![使用本地样机截图](/images/local-material-two-use.svg)
+![使用本地样机截图](/images/local-material-two-use.png)
 
-> ↑ 点击样机在 PS 中打开（请替换为实际截图）
+> ↑ 点击样机在 PS 中打开
 
 ---
 
