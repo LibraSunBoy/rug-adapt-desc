@@ -2,7 +2,7 @@
 home: true
 heroImage: /images/logo.png
 heroText: RugAdapt
-tagline: 专为跨境电商地毯卖家设计的 Photoshop 素材管理与效率工具插件
+tagline: 专为地毯卖家设计的 Photoshop 素材管理与效率工具插件
 actionText: 快速开始 →
 actionLink: /guide/
 features:
@@ -12,5 +12,5 @@ features:
     details: 将本地文件夹接入插件，按子文件夹分类展示，点击即可在 PS 中以样机嵌入方式打开。
   - title: 🛠️ 强大工具箱
     details: 内置清除水印、添加水印、尺寸规范化、画布旋转、批量导出、样机替换等实用工具。
-footer: © 2024 RugAdapt. All Rights Reserved.
+footer: © 2026 RugAdapt. All Rights Reserved.
 ---

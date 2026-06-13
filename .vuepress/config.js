@@ -13,6 +13,11 @@ module.exports = {
     sidebar: {
       '/guide/': [
         {
+          title: '客服支持',
+          collapsable: false,
+          children: ['customer-service']
+        },
+        {
           title: '快速开始',
           collapsable: false,
           children: ['', 'login']
