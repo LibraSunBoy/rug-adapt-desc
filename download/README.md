@@ -11,7 +11,7 @@
     </div>
     <div class="download-desc">适用于 Windows 系统，支持 Adobe Photoshop CC 2018 及以上版本。</div>
   </div>
-  <a class="download-btn" href="#">
+  <a class="download-btn" href="/exe/RugAdapt.exe" download>
     ⬇ 立即下载
   </a>
 </div>
