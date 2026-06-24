@@ -7,17 +7,17 @@
     <div class="download-title">RugAdapt 安装包</div>
     <div class="download-meta">
       <span class="tag">Windows</span>
-      <span class="tag">.exe</span>
+      <span class="tag">.msi</span>
     </div>
     <div class="download-desc">适用于 Windows 系统，支持 Adobe Photoshop CC 2018 及以上版本。</div>
   </div>
-  <a class="download-btn" href="/exe/RugAdapt.exe" download>
+  <a class="download-btn" href="/msi/RugAdapt.msi" download>
     ⬇ 立即下载
   </a>
 </div>
 
 ::: tip 安装说明
-下载完成后，双击 `.exe` 文件按照向导完成安装，然后重启 Photoshop，在菜单栏 **窗口 → 扩展功能 → RugAdapt** 中打开插件。
+下载完成后，双击 `.msi` 文件按照向导完成安装，然后重启 Photoshop，在菜单栏 **窗口 → 扩展功能 → RugAdapt** 中打开插件。
 :::
 
 ::: warning 注意
@@ -30,7 +30,7 @@
 
 **1. 运行安装程序**
 
-双击下载的 `.exe` 文件，启动安装向导。
+双击下载的 `.msi` 文件，启动安装向导。
 
 **2. 按向导完成安装**
 
